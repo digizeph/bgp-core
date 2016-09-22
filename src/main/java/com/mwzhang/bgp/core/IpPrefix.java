@@ -1,6 +1,5 @@
 package com.mwzhang.bgp.core;
 
-import bgpi.utils.net.CIDRUtils;
 import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;
 
